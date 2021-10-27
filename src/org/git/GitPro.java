@@ -38,4 +38,5 @@ public class GitPro {
 				r.keyRelease(KeyEvent.VK_ENTER);
 				
 		}}
+//git is clonned and it was typed to make sure whether it is updated in branch while opning git in browser
 
